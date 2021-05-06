@@ -1,0 +1,21 @@
+
+git bash imulator
+
+to crate local repository 
+ :git init   ---> .git foder will be create
+ this will be our local repository
+ 
+configure the repository
+
+git remote add origin "https://github.com/Naren4hadoop/dataengineer.git"
+
+https://github.com/Naren4hadoop/dataengineer.git
+git clone https://github.com/Naren4hadoop/dataengineer.git
+
+git remote
+
+pull files
+ :gitpull
+
+git commit -m "initial commit"
+
