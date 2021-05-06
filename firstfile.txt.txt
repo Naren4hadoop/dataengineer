@@ -9,7 +9,6 @@ configure the repository
 
 git remote add origin "https://github.com/Naren4hadoop/dataengineer.git"
 
-https://github.com/Naren4hadoop/dataengineer.git
 git clone https://github.com/Naren4hadoop/dataengineer.git
 
 git remote
@@ -18,4 +17,8 @@ pull files
  :gitpull
 
 git commit -m "initial commit"
+
+from cli we need to run "git gui"
+
+
 
